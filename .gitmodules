@@ -1,0 +1,3 @@
+[submodule "TheSession-data"]
+	path = TheSession-data
+	url = git@github.com:adactio/TheSession-data.git
